@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  overflow: auto;
+}
+
+/*===== Home ======*/
+.btn {
+  border: none;
+  color: rgb(255, 255, 255);
+  /* padding: 12px 16px; */
+  font-size: 16px;
+  cursor: pointer;
+}
+.add_btn{
+  display:flex;
+  justify-content: flex-end;
+}
+.btnn{
+  margin-top:7px;
+}
+i {
+  padding-right: 5px;
+}
+.ri-add-line {
+  font-size: 20px;
+}
+
